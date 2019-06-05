@@ -1,0 +1,59 @@
+body {background-image:  url(https://st.depositphotos.com/1043644/3026/i/950/depositphotos_30263665-stock-photo-vintage-background-sky.jpg)}
+
+#div3 {background-image:  url(https://fscomps.fotosearch.com/compc/CSP/CSP423/%D7%A1%D7%99%D7%9E%D7%A0%D7%99-%D7%A9%D7%90%D7%9C%D7%94-%D7%A8%D7%A7%D7%A2-%D7%9E%D7%90%D7%92%D7%A8-%D7%90%D7%99%D7%95%D7%A8__k4237048.jpg); 
+ 
+  font-size:55px;
+  border-radius: 35px 0px 35px 0px;
+ color:#00001;
+  
+  font-family: 'Hind Siliguri', sans-serif;, cursive;
+  text-align: center;
+  
+ }
+
+#div0 {background-image:  url(https://i.pinimg.com/originals/bb/b8/cf/bbb8cf7b0c51fa2840a93cb92e7763e1.jpg);; color:#0F6D6C; padding: 0px 0px 50px 50px; font-size:25px; border-radius: 35px 0px 35px 0px;
+-moz-border-radius: 35px 0px 35px 0px;
+-webkit-border-radius: 35px 0px 35px 0px;
+border: 2px solid #5878ca;
+  margin:  0 20% 0 20%;
+  text-align: center;
+  font-family: 'Hind Siliguri', sans-serif;
+   
+}
+
+#buttonOk { text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+#botonlibros {  padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+#botonpelis { text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+#botonsig { text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
