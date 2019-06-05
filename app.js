@@ -133,10 +133,10 @@ function triviaPeliculas(){
   }
   else if(qN == 3){
     let p = document.createElement("P");
-    p.innerText = "3. ¿A qué película pertene esta frase: No se ve bien más que con el corazón, lo escencial es invisible a los ojos?\n\n"+
-      "a) Forrest Gump \n"+
-      "b) El Pianista \n"+
-      "c) La Vida es Bella";
+    p.innerText = "3. ¿A qué película pertene esta frase: Le haré una oferta que no podrá rechazar\n\n"+
+      "a) The Godfather \n"+
+      "b) Goodfellas \n"+
+      "c) Scarface";
     div0.appendChild(p);
 
     ansNext("Terminar");
