@@ -38,6 +38,13 @@ function buttonsTrivia(){
   buttonFilms.id="botonpelis";
   div0.appendChild(buttonFilms);
   buttonFilms.addEventListener("click", triviaPeliculas);
+  
+  let buttonSeries = document.createElement("BUTTON");
+  buttonSeries.innerText = "Series";
+  buttonSeries.id="botonseries";
+  div0.appendChild(buttonSeries);
+  //buttonSeries.addEventListener("click", triviaSeries);
+  
 }
 
 
